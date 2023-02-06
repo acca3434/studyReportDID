@@ -13,9 +13,9 @@ https://github.com/acca3434/ReportDID#subject
 <h3>4. tech stack</h3>
 https://github.com/acca3434/ReportDID#tech-stack
 <h3>5. Install Guide</h3>
-https://github.com/acca3434/ReportDID#the-rd-needed-to-acquire-this-knowledge
+https://github.com/acca3434/ReportDID#install-guide
 <h3>6. R&D 필요과정</h3>
-https://github.com/acca3434/ReportDID/edit/main/README.md#the-rd-needed-to-acquire-this-knowledge
+https://github.com/acca3434/ReportDID#the-rd-needed-to-acquire-this-knowledge
 
 # Process
 
