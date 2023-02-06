@@ -5,15 +5,15 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 # 목차
 
 <h3>1. Index</h3>
-https://github.com/acca3434/ReportDID/edit/main/README.md#
+https://github.com/acca3434/ReportDID#%EB%AA%A9%EC%B0%A8
 <h3>2. Process</h3>
-https://github.com/acca3434/ReportDID/edit/main/README.md#
+https://github.com/acca3434/ReportDID#process
 <h3>3. subject</h3>
-https://github.com/acca3434/ReportDID/blob/main/README.md#
+https://github.com/acca3434/ReportDID#subject
 <h3>4. tech stack</h3>
-https://github.com/acca3434/ReportDID/blob/main/README.md#
+https://github.com/acca3434/ReportDID#tech-stack
 <h3>5. Install Guide</h3>
-https://github.com/acca3434/ReportDID/edit/main/README.md#
+https://github.com/acca3434/ReportDID#the-rd-needed-to-acquire-this-knowledge
 <h3>6. R&D 필요과정</h3>
 https://github.com/acca3434/ReportDID/edit/main/README.md#the-rd-needed-to-acquire-this-knowledge
 
