@@ -4,11 +4,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Index
 
-#### 나중에 목차 여기에 링크별로 달거임
+1. Veramo & React(CRA)설치 https://docs.google.com/document/d/1QsopAAgyf_nGpUJHnOIjs7h2hmvA7v4MBw0eJz6puo0/
+2. Smart Contract 코드 작성
+
 
 # Subject
 
 #### DID인증을 통한 익명의 제보채널
+#### PPT 꼭 
 
 # Tech Stack
 
