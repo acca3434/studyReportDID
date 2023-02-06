@@ -10,78 +10,76 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 #### DID인증을 통한 익명의 제보채널
 
-# Use 
+# Tech Stack
 
-## language
-
-### React
-
-## library
-
-### immer
-
-## Credential template
-
-### veramo
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=Solidity&logoColor=white"/>&nbsp;&nbsp;
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Veramo-363636?style=flat&logo=Veramo&logoColor=white"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Mysql-3178C6?style=flat&logo=Mysql&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Immer-00E7C3?style=flat&logo=Immer&logoColor=black"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Eslint-4B32C3?style=flat&logo=Eslint&logoColor=black"/>&nbsp;&nbsp;
+        <img src="https://img.shields.io/badge/Eslint-F7B93E?style=flat&logo=Eslint&logoColor=black"/>&nbsp;&nbsp;
+</P>
 
 ## R&D 순서대로 문서를 작성
 
-### 
-
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm install`
+### npm install
 
 #### client
 
-- 1.`cd veramo-react-app`
+- `cd veramo-react-app`
 
-- 2.`npm install`
+- `npm install`
 
-### `npm start`
+### npm start
 
 #### client
 
-- 1.`[http://localhost:3000](http://localhost:3000)`
+- `[http://localhost:3000](http://localhost:3000)`
 
-- 2.`cd veramo-react-app`
+- `cd veramo-react-app`
 
-- 3.`npm start`
+- `npm start`
   
 # The R&D needed to acquire this knowledge
 
-## DID(R&D)
+### DID
 
 #### https://docs.google.com/document/d/1yGFq5K1vheScF9w02n4Z_S9oJEn5FlF9v8zQ7JLW6zA/
 
-## SSI(R&D)
+### SSI
 
 #### https://docs.google.com/document/d/1MlmK-A8-2WAzTzGAM6_INCfvvN3hzyut8GLE9byCSnI/
 
-## Entity vs Agent
+### Entity vs Agent
 
 #### https://docs.google.com/document/d/15nYSnuNgQvxPdI_1JDQ27GH1ZPkVj6gGqg8rUhvNrpo/
 
-## VC(verifiable Credentials)
+### VC(verifiable Credentials)
 
 #### https://docs.google.com/document/d/1RIG8SXFriAefceyPE3NhTlbzy-wLAz-I2_AUJ-M6MPI/
 
-## DIDdocument의 객체구성
+### DIDdocument의 객체구성
 
 #### https://docs.google.com/document/d/1eb39pboV__aSPLPAl1-60Uq8bfQUvFXIigM0agHBP40/
 
-## What is it Veramo?
+### What is it Veramo?
 
 #### https://drive.google.com/drive/folders/1paJ9rFwPFXvLxmfKxOzg5YGqonfo07UJ
 
-## Veramo With React
+### Veramo With React
 
 #### https://docs.google.com/document/d/1us8WufS97Fy0vkVVVZKP9bbbcn1nHhy5kNON6jXYx18/edit#heading=h.mbjsiz6n6jlo
 
-## Veramo install(React CRA)
+### Veramo install(React CRA)
 
 #### https://docs.google.com/document/d/1QsopAAgyf_nGpUJHnOIjs7h2hmvA7v4MBw0eJz6puo0/
 
