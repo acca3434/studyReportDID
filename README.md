@@ -1,36 +1,58 @@
+</br>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+</br>
+
 # 목차
 <h3>0. React Install</h3>
-https://github.com/acca3434/ReportDID#getting-started-with-create-react-app
+
+- https://github.com/acca3434/ReportDID#getting-started-with-create-react-app
+
 <h3>1. Index</h3>
-https://github.com/acca3434/ReportDID#%EB%AA%A9%EC%B0%A8
+
+- https://github.com/acca3434/ReportDID#%EB%AA%A9%EC%B0%A8
+
 <h3>2. Process</h3>
-https://github.com/acca3434/ReportDID#process
+
+- https://github.com/acca3434/ReportDID#process
+
 <h3>3. subject</h3>
-https://github.com/acca3434/ReportDID#subject
+
+- https://github.com/acca3434/ReportDID#subject
+
 <h3>4. tech stack</h3>
-https://github.com/acca3434/ReportDID#tech-stack
+
+- https://github.com/acca3434/ReportDID#tech-stack
+
 <h3>5. Install Guide</h3>
-https://github.com/acca3434/ReportDID#install-guide
+
+- https://github.com/acca3434/ReportDID#install-guide
+
 <h3>6. R&D 필요과정</h3>
-https://github.com/acca3434/ReportDID#the-rd-needed-to-acquire-this-knowledge
+
+- https://github.com/acca3434/ReportDID#the-rd-needed-to-acquire-this-knowledge
+
+</br>
 
 # Process
 
-<h4>1. Veramo & React(CRA)설치</h4> 
+<h3>1. Veramo & React(CRA)설치</h3> 
 
 - https://docs.google.com/document/d/1QsopAAgyf_nGpUJHnOIjs7h2hmvA7v4MBw0eJz6puo0/
 
-<h4>2. Smart Contract 코드 작성</h4>
+<h3>2. Smart Contract 코드 작성</h3>
 
+</br>
 
 # Subject
 
 #### DID인증을 통한 익명의 제보채널
 #### PPT 꼭 
+
+</br>
 
 # Tech Stack
 
@@ -51,29 +73,35 @@ https://github.com/acca3434/ReportDID#the-rd-needed-to-acquire-this-knowledge
         <img src="https://img.shields.io/badge/Eslint-F7B93E?style=flat&logo=Eslint&logoColor=black"/>&nbsp;&nbsp;
 </P>
 
-## R&D 순서대로 문서를 작성
+</br>
+
+# R&D 순서대로 문서를 작성
 
 #### 라라라라
 
+</br>
+
 # Install Guide
 
-### npm install
+<h3>npm install</h3>
 
-#### client
+<h5>Client</h5>
 
-- `cd veramo-react-app`
+-  `cd veramo-react-app`
 
-- `npm install`
+-  `npm install`
 
-### npm start
+<h3>npm start</h3>
 
-#### client
+<h5>Client</h5>
 
-- `[http://localhost:3000](http://localhost:3000)`
+-  `[http://localhost:3000](http://localhost:3000)`
 
-- `cd veramo-react-app`
+-  `cd veramo-react-app`
 
-- `npm start`
+-  `npm start`
+
+</br>
   
 # The R&D needed to acquire this knowledge
 
@@ -109,7 +137,7 @@ https://github.com/acca3434/ReportDID#the-rd-needed-to-acquire-this-knowledge
 
 #### https://docs.google.com/document/d/1QsopAAgyf_nGpUJHnOIjs7h2hmvA7v4MBw0eJz6puo0/
 
-
+</br>
 
 
 
