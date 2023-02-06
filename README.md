@@ -2,6 +2,30 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Subject
+
+#### DID인증을 통한 익명의 제보채널
+
+# Use 
+
+## language
+
+### Solidity
+
+### Node.js
+
+### React
+
+## 
+
+
+## veramo
+
+## R&D 순서대로 문서를 작성
+
+### 
+
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -10,7 +34,7 @@ In the project directory, you can run:
 
 #### client
 
-- 1.`cd veramo-react-app`\
+- 1.`cd veramo-react-app`
 
 - 2.`npm install`
 
@@ -18,41 +42,33 @@ In the project directory, you can run:
 
 #### client
 
-Runs the app in the development mode.\
+1. Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
+2. 
+  - (1). `cd veramo-react-app`
 
+  - (2).`npm start`
+  
+# The R&D needed to acquire this knowledge
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## DID(R&D)
 
-### `npm test`
+#### https://docs.google.com/document/d/1yGFq5K1vheScF9w02n4Z_S9oJEn5FlF9v8zQ7JLW6zA/
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## SSI(R&D)
 
-### `npm run build`
+#### https://docs.google.com/document/d/1MlmK-A8-2WAzTzGAM6_INCfvvN3hzyut8GLE9byCSnI/
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Entity vs Agent
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+#### https://docs.google.com/document/d/15nYSnuNgQvxPdI_1JDQ27GH1ZPkVj6gGqg8rUhvNrpo/
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## VC(verifiable Credentials)
 
-### `npm run eject`
+#### https://docs.google.com/document/d/1RIG8SXFriAefceyPE3NhTlbzy-wLAz-I2_AUJ-M6MPI/
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## DIDdocument의 객체구성
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+#### https://docs.google.com/document/d/1eb39pboV__aSPLPAl1-60Uq8bfQUvFXIigM0agHBP40/
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
