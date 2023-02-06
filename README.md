@@ -115,6 +115,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 #### https://docs.google.com/document/d/1RIG8SXFriAefceyPE3NhTlbzy-wLAz-I2_AUJ-M6MPI/
 
+### VC(Verifiable Credential) Agent 역할분배
+
+#### https://docs.google.com/document/d/1BrwusP5NZvLOCaIBmAOAGeCP1O27q7FI58j9AI_5JZU/edit
+
 ### DIDdocument의 객체구성
 
 #### https://docs.google.com/document/d/1eb39pboV__aSPLPAl1-60Uq8bfQUvFXIigM0agHBP40/
