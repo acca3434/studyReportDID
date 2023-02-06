@@ -31,7 +31,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 - https://github.com/acca3434/ReportDID#install-guide
 
-<h3>6. R&D 필요과정</h3>
+<h3>6. R&D </h3>
 
 - https://github.com/acca3434/ReportDID#the-rd-needed-to-acquire-this-knowledge
 
