@@ -20,7 +20,10 @@ https://github.com/acca3434/ReportDID#the-rd-needed-to-acquire-this-knowledge
 
 # Process
 
-<h4>1. Veramo & React(CRA)설치</h4> https://docs.google.com/document/d/1QsopAAgyf_nGpUJHnOIjs7h2hmvA7v4MBw0eJz6puo0/
+<h4>1. Veramo & React(CRA)설치</h4> 
+
+- https://docs.google.com/document/d/1QsopAAgyf_nGpUJHnOIjs7h2hmvA7v4MBw0eJz6puo0/
+
 <h4>2. Smart Contract 코드 작성</h4>
 
 
