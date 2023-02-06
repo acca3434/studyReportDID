@@ -75,12 +75,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 </br>
 
-# R&D 순서대로 문서를 작성
-
-#### 라라라라
-
-</br>
-
 # Install Guide
 
 <h3>npm install</h3>
