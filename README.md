@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Index
+
+#### 나중에 목차 여기에 링크별로 달거임
+
 # Subject
 
 #### DID인증을 통한 익명의 제보채널
@@ -10,16 +14,15 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## language
 
-### Solidity
-
-### Node.js
-
 ### React
 
-## 
+## library
 
+### immer
 
-## veramo
+## Credential template
+
+### veramo
 
 ## R&D 순서대로 문서를 작성
 
@@ -42,13 +45,11 @@ In the project directory, you can run:
 
 #### client
 
-1. Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- 1.`[http://localhost:3000](http://localhost:3000)`
 
-2. 
-  - (1). `cd veramo-react-app`
+- 2.`cd veramo-react-app`
 
-  - (2).`npm start`
+- 3.`npm start`
   
 # The R&D needed to acquire this knowledge
 
@@ -71,4 +72,20 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 ## DIDdocument의 객체구성
 
 #### https://docs.google.com/document/d/1eb39pboV__aSPLPAl1-60Uq8bfQUvFXIigM0agHBP40/
+
+## What is it Veramo?
+
+#### https://drive.google.com/drive/folders/1paJ9rFwPFXvLxmfKxOzg5YGqonfo07UJ
+
+## Veramo With React
+
+#### https://docs.google.com/document/d/1us8WufS97Fy0vkVVVZKP9bbbcn1nHhy5kNON6jXYx18/edit#heading=h.mbjsiz6n6jlo
+
+## Veramo install(React CRA)
+
+#### https://docs.google.com/document/d/1QsopAAgyf_nGpUJHnOIjs7h2hmvA7v4MBw0eJz6puo0/
+
+
+
+
 
