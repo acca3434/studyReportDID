@@ -97,7 +97,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 </br>
   
-# The R&D needed to acquire this knowledge
+# R&D documents needed for the project
 
 ## DID & Credential
 
